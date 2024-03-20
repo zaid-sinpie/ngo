@@ -8,7 +8,7 @@ function App() {
     <>
       <Section>
         <Navbar></Navbar>
-        <Container></Container>
+        <Container isBg={true}></Container>
       </Section>
     </>
   );
